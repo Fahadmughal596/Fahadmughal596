@@ -1,26 +1,13 @@
-
-<div align="center">
+﻿<div align="center">
 
 ### `fahad@github:~$ ./welcome.sh`
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./avi-ascii.svg" width="370" alt="Fahad Mughal Animated ASCII Portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="Fahad Mughal Developer Information" />
-    </td>
-  </tr>
-</table>
+<img src="./avi-ascii.svg" width="38%" alt="Animated ASCII Portrait" />
+<img src="./info-card.svg" width="58%" alt="Animated Developer Info Card" />
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="900" alt="Animated GitHub Contribution Heatmap" />
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub Contribution Heatmap" />
 
 </div>
 
@@ -30,13 +17,13 @@
 
 ### `fahad@github:~$ ./skills.sh`
 
-**Languages & Frameworks**
+#### Languages & Frameworks
 
-Python • Django • JavaScript • HTML • CSS
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css" alt="Programming Languages and Frameworks" />
 
-**Tools & Technologies**
+#### Tools & Technologies
 
-Git • GitHub • SQL • REST APIs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" alt="Developer Tools" />
 
 </div>
 
@@ -69,5 +56,7 @@ Git • GitHub • SQL • REST APIs
 🌱 Currently learning Backend Development & DevOps
 
 🚀 Interested in AI Integration and Full-Stack Development
+
+📍 Pakistan
 
 </div>
