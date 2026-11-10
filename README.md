@@ -23,11 +23,11 @@
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,react" alt="Programming Languages" />
 
 **Tools & Technologies**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" alt="Developer Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman,docker" alt="Developer Tools" />
 
 </div>
 
@@ -45,6 +45,14 @@
 
 <div align="center">
 
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
 ### `fahad@github:~$ ./about.sh`
 
 ## Hi, I'm Fahad Mughal 👋
@@ -60,6 +68,7 @@
 📍 Pakistan
 
 </div>
+
 
 
 
