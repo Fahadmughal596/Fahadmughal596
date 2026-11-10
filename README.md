@@ -45,14 +45,30 @@
 
 <div align="center">
 
+### `fahad@github:~$ ./mobile.sh`
 
 **Mobile Development**
 
 <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
 
+</div>
+
+---
+
+<div align="center">
+
+### `fahad@github:~$ ./learning.sh`
+
 **Currently Learning**
 
 <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### `fahad@github:~$ ./about.sh`
 
 ## Hi, I'm Fahad Mughal 👋
@@ -68,6 +84,7 @@
 📍 Pakistan
 
 </div>
+
 
 
 
