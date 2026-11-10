@@ -4,10 +4,10 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="35%" valign="middle" align="center">
 <img src="./avi-ascii.svg" width="100%" alt="Animated ASCII Portrait" />
 </td>
-<td width="60%" valign="top">
+<td width="65%" valign="middle" align="center">
 <img src="./info-card.svg" width="100%" alt="Developer Information" />
 </td>
 </tr>
@@ -62,3 +62,4 @@
 📍 Pakistan
 
 </div>
+
