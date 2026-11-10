@@ -1,17 +1,6 @@
 ﻿<div align="center">
 
-### `fahad@github:~$ ./welcome.sh`
-
-<table>
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="./avi-ascii.svg" width="100%" alt="Animated ASCII Portrait" />
-</td>
-<td width="65%" valign="middle" align="center">
-<img src="./info-card.svg" width="100%" alt="Developer Information" />
-</td>
-</tr>
-</table>
+<img src="./profile-hero.svg" width="100%" alt="Fahad Mughal Animated Developer Profile" />
 
 <img src="./contrib-heatmap.svg" width="100%" alt="GitHub Contribution Heatmap" />
 
@@ -62,4 +51,5 @@
 📍 Pakistan
 
 </div>
+
 
