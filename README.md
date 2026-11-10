@@ -3,9 +3,24 @@
 
 ### `fahad@github:~$ ./welcome.sh`
 
-<img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./avi-ascii.svg" width="370" alt="Fahad Mughal Animated ASCII Portrait" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="Fahad Mughal Developer Information" />
+    </td>
+  </tr>
+</table>
 
-<img src="./info-card.svg" width="490" alt="Developer information" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="900" alt="Animated GitHub Contribution Heatmap" />
 
 </div>
 
