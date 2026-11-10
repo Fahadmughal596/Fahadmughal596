@@ -2,10 +2,16 @@
 
 ### `fahad@github:~$ ./welcome.sh`
 
-<img src="./avi-ascii.svg" width="38%" alt="Animated ASCII Portrait" />
-<img src="./info-card.svg" width="58%" alt="Animated Developer Info Card" />
-
-<br>
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="./avi-ascii.svg" width="100%" alt="Animated ASCII Portrait" />
+</td>
+<td width="60%" valign="top">
+<img src="./info-card.svg" width="100%" alt="Developer Information" />
+</td>
+</tr>
+</table>
 
 <img src="./contrib-heatmap.svg" width="100%" alt="GitHub Contribution Heatmap" />
 
@@ -15,13 +21,13 @@
 
 <div align="center">
 
-### `fahad@github:~$ ./skills.sh`
+### `fahad@github:~$ ./tech-stack.sh`
 
-#### Languages & Frameworks
+**Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css" alt="Programming Languages and Frameworks" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css" alt="Programming Languages" />
 
-#### Tools & Technologies
+**Tools & Technologies**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" alt="Developer Tools" />
 
@@ -29,17 +35,13 @@
 
 ---
 
-<div align="center">
+### `fahad@github:~$ ./featured-projects.sh`
 
-### `fahad@github:~$ ./projects.sh`
-
-| Project | Description |
-|:---|:---|
-| **FarmerChat** | AI-Powered Agricultural Support |
-| **Prime Union Trucking** | Professional Trucking Business Website |
-| **Kitchen Collection** | Modern E-commerce Platform |
-
-</div>
+| Project | Description | Focus |
+|:---|:---|:---|
+| **FarmerChat** | AI-Powered Agricultural Support | AI, Django, Flutter |
+| **Prime Union Trucking** | Business Website | Web Development |
+| **Kitchen Collection** | E-commerce Platform | React, Supabase |
 
 ---
 
@@ -49,13 +51,13 @@
 
 ## Hi, I'm Fahad Mughal 👋
 
-**Software Developer | Python | AI Enthusiast**
+**Software Developer | Backend Development | AI Enthusiast**
 
-💻 Passionate about building modern applications
+💻 Building modern, practical web applications
 
-🌱 Currently learning Backend Development & DevOps
+🌱 Learning DevOps and scalable backend development
 
-🚀 Interested in AI Integration and Full-Stack Development
+🚀 Exploring AI-powered software and automation
 
 📍 Pakistan
 
