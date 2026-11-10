@@ -26,3 +26,9 @@ Git • GitHub • SQL • REST APIs
 **Kitchen Collection** — E-commerce Platform
 
 </div>
+
+<h3 align="center">fahad@github ~ $ whoami</h3>
+
+<div align="center">
+  <img src="./info-card.svg" width="850" alt="Fahad Mughal animated terminal card" />
+</div>
